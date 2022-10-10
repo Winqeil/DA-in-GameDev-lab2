@@ -37,7 +37,7 @@
 ### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач
 Ход работы:
 - Создание гугл таблицы и запись в нее значений с помощью кода на Python. Затем написание кода на Unity для звукового сопровождения для каждого значения. Скриншноты и результаты выполнения прилагаются.
-- ![image](https://user-images.githubusercontent.com/103383207/194942325-b523e50a-cbb2-4d3c-a7c5-c36d507ae166.png) [file](https://github.com/Winqeil/DA-in-GameDev-lab2/blob/main/PythonSheets.py)
+- ![image](https://user-images.githubusercontent.com/103383207/194942325-b523e50a-cbb2-4d3c-a7c5-c36d507ae166.png) [Ссылка на код Python](https://github.com/Winqeil/DA-in-GameDev-lab2/blob/main/PythonSheets.py)
 ![image](https://user-images.githubusercontent.com/103383207/194942373-767ac421-f594-4ec1-a225-c6865fd93982.png)
 
 ```py

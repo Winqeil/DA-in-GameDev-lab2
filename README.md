@@ -38,29 +38,7 @@
 Ход работы:
 - Создание гугл таблицы и запись в нее значений с помощью кода на Python. Затем написание кода на Unity для звукового сопровождения для каждого значения. Скриншноты и результаты выполнения прилагаются.
 - ![image](https://user-images.githubusercontent.com/103383207/194942325-b523e50a-cbb2-4d3c-a7c5-c36d507ae166.png) [Ссылка на код Python](https://github.com/Winqeil/DA-in-GameDev-lab2/blob/main/PythonSheets.py)
-![image](https://user-images.githubusercontent.com/103383207/194942373-767ac421-f594-4ec1-a225-c6865fd93982.png)
-
-```py
-
-In [ ]:
-#Import the required modules, numpy for calculation, and Matplotlib for drawing
-import numpy as np
-import matplotlib.pyplot as plt
-#This code is for jupyter Notebook only
-%matplotlib inline
-
-# define data, and change list to array
-x = [3,21,22,34,54,34,55,67,89,99]
-x = np.array(x)
-y = [2,22,24,65,79,82,55,130,150,199]
-y = np.array(y)
-
-#Show the effect of a scatter plot
-plt.scatter(x,y)
-
-```
-
-- Определите связанные функции. Функция модели: определяет модель линейной регрессии wx+b. Функция потерь: функция потерь среднеквадратичной ошибки. Функция оптимизации: метод градиентного спуска для нахождения частных производных w и b.
+![image](https://user-images.githubusercontent.com/103383207/194942373-767ac421-f594-4ec1-a225-c6865fd93982.png) [Ссылка на код C#]()
 
 ## Выводы
 
